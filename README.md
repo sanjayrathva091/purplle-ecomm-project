@@ -1,7 +1,7 @@
 ✨Purplle.com-Clone✨
 ---
 #### Description:
-Purplle is a one stop solution for all your favourite beauty products, that too all under one roof. This platform not only keep all your favourite products but also you'll be able to buy all your favourite beauty products online at your convenience with best of the prices. There is plenty of options available to explore. Keep Calm & Stay Beautyful.
+Purplle is a one stop solution for all your favourite beauty products, that too all under one roof. This platform not only keep all your favourite products but also you'll be able to buy all your favourite beauty products online at your convenience with best of the prices. There is plenty of options available to explore. Keep Calm & Stay Beautiful.
 
 ---
 
